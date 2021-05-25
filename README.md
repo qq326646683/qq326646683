@@ -1,11 +1,7 @@
-### Hi there 👋
+### callme大帅’s Github
 
+| 掘金     |  知乎    |  CSDN   |   简书   
+|---------|--------- |---------|---------|
+|  [点我](https://juejin.cn/user/2313028194799512)    |   [点我](https://www.zhihu.com/people/callmedashuai)       |   [点我](https://blog.csdn.net/u014377146)  |   [点我](https://www.jianshu.com/u/400be700c16c)  
 
-**qq326646683/qq326646683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Android/FLutter
-- 🌱 I’m currently learning OpenGL
-
-
+-  领域主要 Android、Flutter、React Native
